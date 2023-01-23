@@ -85,5 +85,5 @@ lint/tmp/
 # lint/reports/
 
 
-node_modeules/
-pods/
+node_modules/
+Pods/
