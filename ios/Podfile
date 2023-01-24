@@ -8,6 +8,7 @@ target 'PodPublishReact' do
   # Comment the next line if you don't want to use dynamic frameworks
 #  use_frameworks!
   use_react_native!
-
+  
+  pod 'Alamofire'
 
 end
